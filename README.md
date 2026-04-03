@@ -1,6 +1,6 @@
-# 💰 Finance Data Processing Backend
+#  Finance Data Processing Backend
 
-## 🚀 Overview
+##  Overview
 
 This project is a backend system for managing financial data with role-based access control.
 
@@ -8,7 +8,7 @@ It allows different users (Admin, Analyst, Viewer) to interact with financial re
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * FastAPI
 * PostgreSQL
@@ -17,7 +17,7 @@ It allows different users (Admin, Analyst, Viewer) to interact with financial re
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 app/
@@ -31,7 +31,7 @@ app/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repository
 
@@ -81,7 +81,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🔐 Role-Based Access Control
+##  Role-Based Access Control
 
 | Role    | Permissions             |
 | ------- | ----------------------- |
@@ -91,7 +91,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 📊 Features
+##  Features
 
 ### 👤 User Management
 
@@ -101,7 +101,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-### 💰 Transaction Management
+###  Transaction Management
 
 * Create transaction
 * View transactions
@@ -111,7 +111,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-### 📈 Dashboard APIs
+###  Dashboard APIs
 
 * Total Income
 * Total Expense
@@ -122,7 +122,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🧠 Assumptions
+##  Assumptions
 
 * Authentication is simulated using request headers (`x-role`)
 * Roles are predefined: admin, analyst, viewer
@@ -130,7 +130,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## ⭐ Improvements (Future Scope)
+##  Improvements (Future Scope)
 
 * JWT Authentication
 * Pagination
@@ -140,7 +140,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project demonstrates:
 
