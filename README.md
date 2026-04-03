@@ -64,7 +64,7 @@ CREATE DATABASE finance_db;
 Update database URL in `database.py`:
 
 ```
-postgresql://username:password@localhost:5432/finance_db
+postgresql://postgres:1234@localhost:5432/finance_db
 ```
 
 ### 5. Run server
