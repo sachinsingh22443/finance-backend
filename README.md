@@ -36,7 +36,7 @@ app/
 ### 1. Clone the repository
 
 ```
-git clone <your-repo-link>
+git clone <[your-repo-link](https://github.com/sachinsingh22443/finance-backend.git)>
 cd finance-backend
 ```
 
